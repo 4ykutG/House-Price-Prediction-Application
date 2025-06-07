@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/username/house-price-prediction.git
+git clone https://github.com/4ykutG/house-price-prediction.git
 cd house-price-prediction
 Install required libraries:
 
